@@ -16925,7 +16925,7 @@
     "setuptools"
   ],
   "pytoolconfig": [
-    "pdm-pep517"
+    "pdm-backend"
   ],
   "pytools": [
     "setuptools"
